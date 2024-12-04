@@ -1,0 +1,14 @@
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\bin\Debug\net8.0\projetoInicial.exe
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\bin\Debug\net8.0\projetoInicial.deps.json
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\bin\Debug\net8.0\projetoInicial.runtimeconfig.json
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\bin\Debug\net8.0\projetoInicial.dll
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\bin\Debug\net8.0\projetoInicial.pdb
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\obj\Debug\net8.0\projetoInicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\obj\Debug\net8.0\projetoInicial.AssemblyInfoInputs.cache
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\obj\Debug\net8.0\projetoInicial.AssemblyInfo.cs
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\obj\Debug\net8.0\projetoInicial.csproj.CoreCompileInputs.cache
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\obj\Debug\net8.0\projetoInicial.dll
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\obj\Debug\net8.0\refint\projetoInicial.dll
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\obj\Debug\net8.0\projetoInicial.pdb
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\obj\Debug\net8.0\projetoInicial.genruntimeconfig.cache
+C:\Users\andd6\Documents\Estudos csharp\projetoInicial\projetoInicial\obj\Debug\net8.0\ref\projetoInicial.dll
